@@ -144,3 +144,21 @@ alwaysApply: false
         </tags_registry>
     </automatic_audit_tagging>
 </hft_communication_protocol_contract>
+```
+---
+
+
+
+## 🔬 Initiating Research & Protocol Refinement
+This communication protocol establishes a strict mathematical boundary for AI-assisted software generation. To start research into expanding these deterministic constraints, or to submit hardware telemetry validating $\delta_{alloc} = 0$ and $\delta_{lock} = 0$, please open a detailed **Issue** or **Pull Request**. All contributions must strictly comply with the *Automated Audit Tagging Architecture* and pass static AST analysis.
+
+## 🏢 Enterprise Integration & Commercial Inquiries
+The *Low-Latency HFT AI Communication Protocol* is designed for institutional implementation, enforcing hardware-sympathetic realities onto LLM generation paths. For quantitative trading firms or execution infrastructure teams seeking to deploy this customized `.cursorrules` architecture at scale, please contact:
+- **Architect:** Archi
+- **Direct Inquiry:** quantdeveloper61@gmail.com
+
+## ⚠️ Disclaimer
+The concepts, mathematical bounding models, and XML configurations detailed in this protocol are provided strictly "as-is" for research and architectural evaluation. AI-assisted generation in High-Frequency Trading environments carries intrinsic systemic risks. The author assumes no liability for runtime panics, order routing anomalies, context-switch delays, or financial damages resulting from the execution of AI-generated code in live markets.
+
+---
+*Copyright © 2026 Archi. Bounding AI to the absolute limits of physical latency:*  $\tau_{total} = \tau_{logic}$
